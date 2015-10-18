@@ -1,7 +1,8 @@
-[logo]: https://www.acm-csusb.org/assets/img/Association_for_Computing_Machinery_Chapter_(ACM)_logo.svg
+<p align="center">
+  <img src="https://www.acm-csusb.org/assets/img/Association_for_Computing_Machinery_Chapter_(ACM)_logo.svg"/>
+</p>
 
-
-##Welcome, you are now an ACM member!
+##Welcome, You Are Now An ACM Member!
 
 Association for Computing Machinery Club is a club at CSU, San Bernardino devoted to computer science, computer engineering, and computer systems. Becoming a member is just the first step of  being a part of the club! The next step is to promote an active community tied by a curiosity in the computer field and to overall uphold the goal of improving knowledge and embellishing skills individually and as club.
 
